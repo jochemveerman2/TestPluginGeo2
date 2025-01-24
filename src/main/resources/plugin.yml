@@ -1,0 +1,7 @@
+name: TestPluginGeo2
+version: '1.0.0'
+main: me.jochem.testPluginGeo2.TestPluginGeo2
+api-version: '1.20'
+authors: [ Jochem ]
+description: Plugin voor de JPO testserver.
+website: jpo-geocraft.nl
